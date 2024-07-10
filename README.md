@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SankalpYaduvanshi/SankalpYaduvanshi/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu SankalpYaduvanshi>/<seu SankalpYaduvanshi>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
